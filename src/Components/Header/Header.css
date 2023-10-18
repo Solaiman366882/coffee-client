@@ -1,0 +1,18 @@
+.logo{
+    width: 70px;
+}
+
+.header{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    background: #372727;
+}
+.header h1 {
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 400;
+}

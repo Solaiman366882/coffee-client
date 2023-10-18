@@ -1,0 +1,31 @@
+.contact-section  {
+    background: #5351513d;
+  }
+  
+  .table-heading {
+    text-align: center;
+  }
+  .table-heading h4 {
+    color: #374151;
+  font-family: "Rancho";
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+    margin: 30px 0;
+  }
+  
+  .contact-section label {
+    display: block;
+    margin: 14px 0;
+  }
+  
+  form input {
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    padding: 12px;
+  }
+  
+  form input[type="file"]{
+    width: 100%;
+  }

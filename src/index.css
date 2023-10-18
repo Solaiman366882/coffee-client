@@ -1,0 +1,27 @@
+/* Google fonts lInks */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&family=Rancho&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Rancho', cursive;
+}
+.c-btn {
+    color: #242222;
+    font-family: Rancho;
+    font-size: 24px;
+    background: #E3B577;
+    padding: 8px 25px;
+    display: inline-block;
+}
